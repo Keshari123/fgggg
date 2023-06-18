@@ -1,0 +1,40 @@
+
+                body{
+                     background-color:aqua;
+                     
+                }
+                 *{
+                    margin: 0;
+                    padding: 0;
+                 }   
+                 body h1{
+                  padding-left: 600px;
+                 }
+                 input{   
+                  width: 100px;
+                  height: 50px;
+                  padding-left: 800px;
+                  font-size: 30px;
+                  text-align: left;
+                
+                 }
+                 body h5{
+                  font-family: Verdana;         
+                           font-size:20px;
+                 }
+         footer{
+            color:brown;
+            padding-left:900px;
+            }
+            
+            body h3{
+              text-align: center;
+               color:blue;
+               padding-left: 500px;
+         }
+         
+   
+         
+          
+         
+                
